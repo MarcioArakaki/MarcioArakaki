@@ -9,3 +9,8 @@
 - 🎓 Bachelors Degree in Computer Science.
 - :heart: Passionate about software development and software architecture.
 - 💻 Expertise in C# and the .Net stack.
+
+Other Info
+
+- 🔭 I'm currently focusing on developing applications using Microservices, DDD and Event Driven Design.
+- 🌱 I'm currently learning about AWS and Dynamo (being working only with Azure until now).
