@@ -5,7 +5,7 @@
 
 ## Hello Visitor ! 🛸
 
-- 🧧 Software Engineer with 6+ years of experience espcialized in backend development.
+- 🔥 Software Engineer with 6+ years of experience espcialized in backend development.
 - 🎓 Bachelors Degree in Computer Science.
 - :heart: Passionate about software development and software architecture.
 - 💻 Expertise in C# and the .Net stack.
