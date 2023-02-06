@@ -13,5 +13,5 @@
 Other Info
 
 - 🔭 I'm currently focusing on developing applications using Microservices, DDD and Event Driven Design.
-- 🌱 I'm currently learning about AWS and Dynamo (been working only with Azure until now).
+- 🌱 I'm currently trying to improve my frontend skills with Angular and my docker/k8s skills.
 - 🤝 I love to interact with others, especially with people from a different culture than mine.
