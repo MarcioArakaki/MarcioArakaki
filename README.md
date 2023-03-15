@@ -7,10 +7,9 @@
 - 🔥 Software Engineer with 6+ years of experience, specialized in backend development and solution architecture.
 - 🎓 Bachelor's Degree in Computer Science.
 - :heart: Passionate about software development and software architecture.
-- 💻 Expertise in C# and the .Net stack.
-
+- 💻 My expertise lies in C# and the .Net stack, and I am continuously learning and improving my skills.
 Other Info
 
 - 🔭 I'm currently focusing on developing applications using Microservices, DDD and Event Driven Design.
-- 🌱 I'm currently trying to improve my frontend skills with Angular and my docker/k8s skills.
-- 🤝 I love to interact with others, especially with people from a different culture than mine.
+- 🌱 I am actively trying to enhance my frontend skills with Angular and upskill in Docker/Kubernetes.
+- 🤝 I love interacting with people, especially those from diverse cultures. I believe that every interaction is an opportunity to learn and grow.
