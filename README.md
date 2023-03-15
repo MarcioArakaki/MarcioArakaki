@@ -8,7 +8,8 @@
 - 🎓 Bachelor's Degree in Computer Science.
 - :heart: Passionate about software development and software architecture.
 - 💻 My expertise lies in C# and the .Net stack, and I am continuously learning and improving my skills.
-Other Info
+Other Info 
+
 
 - 🔭 I'm currently focusing on developing applications using Microservices, DDD and Event Driven Design.
 - 🌱 I am actively trying to enhance my frontend skills with Angular and upskill in Docker/Kubernetes.
